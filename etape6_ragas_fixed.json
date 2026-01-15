@@ -1,0 +1,10 @@
+{
+  "hit_3": 1.0,
+  "mrr": 0.95,
+  "precision_3": 0.4999999999999999,
+  "recall_3": 1.0,
+  "f1_3": 0.65,
+  "ragas_score": 0.9099999999999999,
+  "perfect_cases": 10,
+  "total_cases": 10
+}
